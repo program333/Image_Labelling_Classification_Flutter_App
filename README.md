@@ -1,7 +1,8 @@
 # flutter_image_labeling_complete
 
-#ScreenShot
-<img src="https://github.com/program333/Image_Labelling_Classification_Flutter_App/blob/main/images/Image_Labelling_flutter%20App.jpg?raw=true"  width="800px" height="600px" alt="App Screenshot"/>
+#ScreenShot of App
+
+<img src="https://github.com/program333/Image_Labelling_Classification_Flutter_App/blob/main/images/Image_Labelling_flutter%20App.jpg?raw=true"  width="500px" height="500px" alt="App Screenshot"/>
 
 A new Flutter project.
 
