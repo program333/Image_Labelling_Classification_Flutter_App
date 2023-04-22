@@ -1,4 +1,4 @@
-# flutter_image_labeling_complete
+# Image Object Detection Using An Artificial Intelligence Mobile Application developed with Flutter (Dart)
 
 # Flutter App Screenshots
 <table>
